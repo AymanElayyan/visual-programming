@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\bin\Debug\Magic Dates.exe.config
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\bin\Debug\Magic Dates.exe
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\bin\Debug\Magic Dates.pdb
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic Dates.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic_Dates.Form1.resources
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic_Dates.Properties.Resources.resources
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic Dates.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic Dates.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic Dates.exe
+C:\Users\ayman\source\repos\RomanNumeralConverter\Magic Dates\obj\Debug\Magic Dates.pdb

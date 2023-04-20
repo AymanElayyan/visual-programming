@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\bin\Debug\RoomCharges.exe.config
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\bin\Debug\RoomCharges.exe
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\bin\Debug\RoomCharges.pdb
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.Form1.resources
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.Properties.Resources.resources
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.exe
+C:\Users\ayman\source\repos\RoomCharges\RoomCharges\obj\Debug\RoomCharges.pdb

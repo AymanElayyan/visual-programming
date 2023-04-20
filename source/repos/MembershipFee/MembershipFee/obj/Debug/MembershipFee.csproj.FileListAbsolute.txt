@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\bin\Debug\MembershipFee.exe.config
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\bin\Debug\MembershipFee.exe
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\bin\Debug\MembershipFee.pdb
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.Form1.resources
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.Properties.Resources.resources
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.exe
+C:\Users\ayman\source\repos\MembershipFee\MembershipFee\obj\Debug\MembershipFee.pdb

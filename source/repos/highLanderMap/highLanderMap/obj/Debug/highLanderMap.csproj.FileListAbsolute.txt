@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\bin\Debug\highLanderMap.exe.config
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\bin\Debug\highLanderMap.exe
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\bin\Debug\highLanderMap.pdb
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.Directions.resources
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.Properties.Resources.resources
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.exe
+C:\Users\ayman\source\repos\highLanderMap\highLanderMap\obj\Debug\highLanderMap.pdb

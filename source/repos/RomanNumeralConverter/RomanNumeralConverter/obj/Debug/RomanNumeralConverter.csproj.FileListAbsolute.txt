@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form1.resources
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Properties.Resources.resources
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+C:\Users\ayman\source\repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb

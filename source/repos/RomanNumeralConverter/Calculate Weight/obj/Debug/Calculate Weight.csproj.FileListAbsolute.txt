@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\bin\Debug\Calculate Weight.exe.config
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\bin\Debug\Calculate Weight.exe
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\bin\Debug\Calculate Weight.pdb
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate Weight.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate Weight.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate_Weight.Form1.resources
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate_Weight.Properties.Resources.resources
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate Weight.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate Weight.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate Weight.exe
+C:\Users\ayman\source\repos\RomanNumeralConverter\Calculate Weight\obj\Debug\Calculate Weight.pdb

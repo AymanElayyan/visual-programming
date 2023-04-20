@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Form1.resources
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\Users\ayman\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb

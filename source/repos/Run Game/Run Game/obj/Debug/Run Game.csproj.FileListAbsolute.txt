@@ -1,0 +1,11 @@
+C:\Users\ayman\source\repos\Run Game\Run Game\bin\Debug\Run Game.exe.config
+C:\Users\ayman\source\repos\Run Game\Run Game\bin\Debug\Run Game.exe
+C:\Users\ayman\source\repos\Run Game\Run Game\bin\Debug\Run Game.pdb
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run Game.csproj.AssemblyReference.cache
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run_Game.Form1.resources
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run_Game.Properties.Resources.resources
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run Game.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run Game.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run Game.exe
+C:\Users\ayman\source\repos\Run Game\Run Game\obj\Debug\Run Game.pdb
