@@ -1,3 +1,4 @@
-# Visual programming projects
+# Visual programming projects.
+
 
 Windows Forms App (.NET Framework)
